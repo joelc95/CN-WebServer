@@ -1,0 +1,24 @@
+{
+  "name": "WebServer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelc95/CN-WebServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelc95/CN-WebServer/issues"
+  },
+  "homepage": "https://github.com/joelc95/CN-WebServer#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
