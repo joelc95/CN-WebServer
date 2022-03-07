@@ -1,0 +1,17 @@
+body{
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(189, 189, 189);
+    color: rgb(138, 138, 138);
+}
+
+a {
+    text-decoration: none;
+    
+}
